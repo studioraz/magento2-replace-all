@@ -1,5 +1,5 @@
 {
-    "name": "yireo/magento2-replace-all",
+    "name": "studioraz/magento2-replace-all",
     "description": "Remove various packages from Magento",
     "require": {
         "magento/product-community-edition": ">=2.4.0 <2.4.1"
