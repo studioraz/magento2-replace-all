@@ -269,6 +269,7 @@
     "vertex/module-tax-staging": "*",
     "vertex/product-magento-module": "*",
     "vertex/sdk": "*",
+        "vertexinc/sdk": "*",
         "vertexinc/module-tax-staging": "*",
         "vertexinc/product-magento-module": "*",
         "vertexinc/product-magento-module-commerce": "*",
