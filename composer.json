@@ -269,10 +269,17 @@
     "vertex/module-tax-staging": "*",
     "vertex/product-magento-module": "*",
     "vertex/sdk": "*",
+        "vertexinc/module-tax": "*",
         "vertexinc/sdk": "*",
         "vertexinc/module-tax-staging": "*",
         "vertexinc/product-magento-module": "*",
         "vertexinc/product-magento-module-commerce": "*",
+        "vertexinc/module-address-validation": "*",
+        "vertexinc/module-address-validation-api": "*",
+        "vertexinc/module-tax": "*",
+        "vertexinc/sdk": "*",
+        "vertexinc/sdk": "*",
+        "vertexinc/sdk": "*",
     "yotpo/magento2-module-yotpo-reviews": "*",
     "yotpo/magento2-module-yotpo-reviews-bundle": "*"
   }
