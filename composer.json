@@ -202,7 +202,6 @@
     "magento/module-msrp-staging": "*",
         "magento/module-multiple-wishlist-graph-ql": "*",
     "magento/module-multishipping": "*",
-    "magento/module-new-relic-reporting": "*",
         "magento/module-newsletter-graph-ql": "*",
     "magento/module-offline-shipping-sample-data": "*",
         "magento/module-page-builder-analytics": "*",
