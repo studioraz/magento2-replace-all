@@ -113,6 +113,7 @@
     "magento/module-gift-message-staging": "*",
         "magento/module-gift-wrapping-graph-ql": "*",
     "magento/module-gift-wrapping-staging": "*",
+    "magento/module-order-cancellation-graph-ql": "*",
     "magento/module-google-adwords": "*",
     "magento/module-google-optimizer": "*",
     "magento/module-google-optimizer-staging": "*",
