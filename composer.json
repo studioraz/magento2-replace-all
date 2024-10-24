@@ -26,6 +26,7 @@
     "klarna/module-core": "*",
     "klarna/module-kp": "*",
     "klarna/module-kp-graph-ql": "*",
+    "magento/module-payment-services-paypal-graph-ql": "*",
     "klarna/module-onsitemessaging": "*",
     "klarna/module-ordermanagement": "*",
     "magento/adobe-stock-integration": "*",
