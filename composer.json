@@ -19,6 +19,7 @@
     "dotmailer/dotmailer-magento2-extension-enterprise": "*",
     "dotmailer/dotmailer-magento2-extension-enterprise-package": "*",
     "magento/module-graph-ql-new-relic": "*",
+    "magento/module-paypal-graph-ql": "*",
     "dotmailer/dotmailer-magento2-extension-package": "*",
     "dotmailer/dotmailer-magento2-extension-sms": "*",
     "klarna/m2-payments": "*",
