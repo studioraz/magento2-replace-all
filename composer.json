@@ -105,7 +105,6 @@
     "magento/module-dhl": "*",
     "magento/module-directory-graph-ql": "*",
     "magento/module-downloadable-graph-ql": "*",
-        "magento/module-downloadable-import-export": "*",
     "magento/module-downloadable-sample-data": "*",
     "magento/module-downloadable-staging": "*",
     "magento/module-eav-graph-ql": "*",
